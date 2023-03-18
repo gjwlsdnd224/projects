@@ -20,9 +20,6 @@ Sell_A = round(A_kg * Coffee_A,2)
 Sell_B = round(B_kg * Coffee_B,2)
 Sell_C = round(C_kg * Coffee_C,2)
 
-A = A_kg * Coffee_A
-B = B_kg * Coffee_B
-C = C_kg * Coffee_C
 print("Selling all of Coffee A makes: $" + str(Sell_A))
 print("Selling all of Coffee B makes: $" + str(Sell_B))
 print("Selling all of Coffee C makes: $" + str(Sell_C))
